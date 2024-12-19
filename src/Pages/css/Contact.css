@@ -1,0 +1,33 @@
+
+.main{
+    height:100vh;
+}
+.contact{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    height:90vh;
+     margin-top:90px;
+    text-align:start;
+}
+.contact dt{
+  margin-left:40px;
+}
+.contact dl input{
+    height:50px;
+    width:80%;
+    margin-left:40px;
+    align-items: center;
+    justify-items: center;
+    border:1px solid black;
+    outline: none;
+    border-radius:10px 20px ;
+}
+.area1{
+    height:100px;
+}
+.contact button{
+    height:50px;
+   margin:20px;
+    
+}

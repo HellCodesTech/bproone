@@ -1,0 +1,15 @@
+.f-left{
+    display:flex;
+    justify-content:center;
+    flex-direction: column;
+    background:wheat;
+    margin:10px;
+    height:50vh;
+    border-radius:10px;
+}
+.f-left span{
+    font-size:30px;
+}
+.f-left h3{
+    font-size:18px;
+}
